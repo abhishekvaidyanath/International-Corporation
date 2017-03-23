@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="International Corporation" id="International Corporation" version="1.0">
   <name>International Corporation</name>
-  <description>Liberty Leather Stores</description>
+  <description>International Corporation</description>
   <author href="http://www.internationalcorporation.in/" email="leathers@internationalcorporation.in">International Corporation</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
